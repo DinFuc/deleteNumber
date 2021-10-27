@@ -1,0 +1,2 @@
+# deleteNumber
+Hiếu tiếp tục được học về những dãy số, nhưng lần này là một bài toán khó. Bài toán như sau : Cho dãy N số nguyên không âm a1, a2, ..., an . Người ta tiến hành chọn ra 2 chỉ số i, j sao cho i < j và xóa khỏi dãy 2 số ai, aj để tổng giá trị các số còn lại trong dãy là số chẵn. Hiếu muốn bạn đếm hộ hiếu số cách chọn 2 chỉ số i và j (hai cách chọn được gọi là khác nhau nếu tồn tại một chỉ số khác nhau).
